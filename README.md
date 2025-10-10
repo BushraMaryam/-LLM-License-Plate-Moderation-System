@@ -12,4 +12,5 @@ Toxicity scoring
 Optional language detection
 
 Confusion matrices and summary reports
-Use Case: Model evaluation, AI fairness assessment, and categorisation reliability analysis.
+
+**Use Case:** Model evaluation, AI fairness assessment, and categorisation reliability analysis.
